@@ -11,10 +11,14 @@
             "id": "c010cb81e2384ad1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/seo-audit-dreamsaicanbuy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "seo-audit-dreamsaicanbuy"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/seo-audit-dreamsaicanbuy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for seo-audit-dreamsaicanbuy"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/seo-audit-dreamsaicanbuy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from seo-audit-dreamsaicanbuy"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/seo-audit-dreamsaicanbuy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of seo-audit-dreamsaicanbuy"
             }
           },
           {
@@ -169,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,9 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81da43c4838e746b",
+  "active": "c010cb81e2384ad1",
   "lastOpenFiles": [
+    "docs/seo-audit-exponentialpartners.md",
+    "docs/seo-audit-dreamsaicanbuy.md",
     "docs/Companies.md",
+    "memory/2026-01-28-2142.md",
+    "memory/2026-01-28-1441.md",
+    "memory/2026-01-28-1418.md",
+    "memory/2026-01-28-1336.md",
+    "memory/2026-01-28-1332.md",
+    "memory",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "AGENTS.md",
     "docs/AGENTS.md",
     "docs/BOOTSTRAP.md",
     "docs/HEARTBEAT.md",
@@ -202,13 +223,9 @@
     "docs/Who am i.md",
     "Who am i.md",
     "docs/memory/2026-01-28-1441.md",
-    "docs/memory/2026-01-28-1418.md",
-    "docs/memory/2026-01-28-1336.md",
-    "docs/memory/2026-01-28-1332.md",
     "docs/memory",
     "docs",
     "canvas/index.html",
-    "canvas",
-    "Welcome.md"
+    "canvas"
   ]
 }
