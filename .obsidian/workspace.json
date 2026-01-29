@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/seo-audit-dreamsaicanbuy.md",
+                "file": "docs/My writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seo-audit-dreamsaicanbuy"
+              "title": "My writing"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/seo-audit-dreamsaicanbuy.md",
+                "file": "docs/My writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for seo-audit-dreamsaicanbuy"
+              "title": "Backlinks for My writing"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/seo-audit-dreamsaicanbuy.md",
+                "file": "docs/My writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from seo-audit-dreamsaicanbuy"
+              "title": "Outgoing links from My writing"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/seo-audit-dreamsaicanbuy.md",
+                "file": "docs/My writing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of seo-audit-dreamsaicanbuy"
+              "title": "Outline of My writing"
             }
           },
           {
@@ -194,10 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79cfd81bb888e00f",
+  "active": "81da43c4838e746b",
   "lastOpenFiles": [
     "docs/seo-audit-exponentialpartners.md",
+    "docs/My writing.md",
+    "docs/Who am i.md",
     "docs/seo-audit-dreamsaicanbuy.md",
+    "docs/my-writing",
+    "docs/SOUL.md",
     "docs/Companies.md",
     "memory/2026-01-28-2142.md",
     "memory/2026-01-28-1441.md",
@@ -216,13 +220,10 @@
     "docs/HEARTBEAT.md",
     "docs/IDENTITY.md",
     "docs/README.md",
-    "docs/SOUL.md",
     "docs/TOOLS.md",
     "docs/USER.md",
     "docs/Welcome.md",
-    "docs/Who am i.md",
     "Who am i.md",
-    "docs/memory/2026-01-28-1441.md",
     "docs/memory",
     "docs",
     "canvas/index.html",
