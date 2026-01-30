@@ -110,4 +110,4 @@ The browser chore is dying. What’s replacing it is more interesting—and need
 
 -----
 
-*Riz Pabani is the founder of Dreams AI Can Buy, where he helps people turn their "impossible" projects into reality using AI. Ready to reclaim your time and build what matters? [Get started with our AI Workflow Builder](https://dreamsaicanbuy.com).*
+*Riz Pabani is the founder of Dreams AI Can Buy, where he provides hands-on AI coaching to help individuals and small business owners reclaim their time and build the projects they love. Ready to stop "browsing" and start building? [Book a 1:1 AI Coaching session here](https://dreamsaicanbuy.com/coaching).*
