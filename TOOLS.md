@@ -18,10 +18,16 @@ Things like:
 - **AgentMail**: Key stored in `.env.agentmail`
   - Inboxes: `riz@agentmail.to`, `neoandersen@agentmail.to`
 
-### GitHub
+### GitHub & Vercel
 - **Private Matrix Repo:** https://github.com/rpabani/private-matrix.git
 - **DAICB Live Repo:** https://github.com/rpabani/daicb-live.git
-- Status: Connected via GitHub PAT
+- **Vercel:** Auto-deploys from `daicb-live` main branch.
+- **Rule:** ALWAYS use PRs (from branches like `neo-articles`) for production repos (DAICB). Direct pushes are only permitted for the Obsidian vault (private-matrix).
+
+### Messaging
+- **Primary:** Telegram (Riz)
+- **Secondary:** Gateway Dashboard
+- **Note:** No iMessage/BlueBubbles currently in use.
 
 ### Cron Jobs
 - **Newsjacking Research (6h):** Runs every 6 hours (0 */6 * * *). 
