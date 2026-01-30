@@ -1,0 +1,7 @@
+# Newsjacking Research Log
+
+| Date | Story | URL | Exp Angle | Dreams Angle |
+|------|-------|-----|-----------|--------------|
+| 2026-01-30 | **AI-Created Malware "VoidLink"** | https://aiagentstore.ai/ai-agent-news/2026-january | **The Enterprise Risk:** AI isn't just accelerating software development; it's accelerating threat cycles by 35x. Companies need "Agent-Grade Security" yesterday. | **The Coaching Hook:** Your AI agent is a powerful developer—but are you managing its "code quality" and safety? How to supervise your digital workforce to prevent catastrophic errors. |
+| 2026-01-30 | **Microsoft Capex Concerns / Azure Deceleration** | https://techstartups.com/2026/01/30/top-tech-news-today-january-30-2026/ | **The Market Saturation:** Markets are losing patience with "spend now, monetize later." Strategy shift: Efficiency over infrastructure. How to leverage existing AI without the capex burn. | **The Solo Leverage:** Big tech is fighting the infra war; you should be fighting the application war. Why building specific "agentic workflows" is the real way to monetize AI in 2026. |
+| 2026-01-30 | **Palo Alto Networks: AI Agents as Insider Threat** | https://timesofindia.indiatimes.com/technology/tech-news/palo-alto-networks-top-exec... | **Governance Gap:** If internal agents can be manipulated into threats, your AI policy is your biggest security vulnerability. | **Trust & Transparent Agents:** How to build AI systems you actually trust to represent you. |
