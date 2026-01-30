@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/My writing.md",
+                "file": "docs/articles/dreamsaicanbuy/chrome-browsing-agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My writing"
+              "title": "chrome-browsing-agent"
             }
           }
         ]
@@ -194,10 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81da43c4838e746b",
+  "active": "c010cb81e2384ad1",
   "lastOpenFiles": [
-    "docs/seo-audit-exponentialpartners.md",
+    "docs/articles/exponentialpartners/chrome-browsing-agent.md",
+    "docs/articles/dreamsaicanbuy/chrome-browsing-agent.md",
+    "docs/articles/dreamsaicanbuy",
     "docs/My writing.md",
+    "docs/articles/exponentialpartners",
+    "docs/articles",
+    "USER.md",
+    "TOOLS.md",
+    "SOUL.md",
+    "IDENTITY.md",
+    "HEARTBEAT.md",
+    "BOOTSTRAP.md",
+    "AGENTS.md",
+    "docs/seo-audit-exponentialpartners.md",
     "docs/Who am i.md",
     "docs/seo-audit-dreamsaicanbuy.md",
     "docs/my-writing",
@@ -209,21 +221,12 @@
     "memory/2026-01-28-1336.md",
     "memory/2026-01-28-1332.md",
     "memory",
-    "USER.md",
-    "TOOLS.md",
-    "SOUL.md",
-    "IDENTITY.md",
-    "HEARTBEAT.md",
-    "AGENTS.md",
     "docs/AGENTS.md",
     "docs/BOOTSTRAP.md",
     "docs/HEARTBEAT.md",
     "docs/IDENTITY.md",
     "docs/README.md",
     "docs/TOOLS.md",
-    "docs/USER.md",
-    "docs/Welcome.md",
-    "Who am i.md",
     "docs/memory",
     "docs",
     "canvas/index.html",
