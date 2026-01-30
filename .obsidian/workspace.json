@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TOOLS.md",
+                "file": "SOUL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TOOLS"
+              "title": "SOUL"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "c010cb81e2384ad1",
   "lastOpenFiles": [
-    "SOUL.md",
     "IDENTITY.md",
+    "TOOLS.md",
+    "SOUL.md",
     "AGENTS.md",
     "memory/2026-01-30-1616.md",
     "memory/2026-01-30-1600.md",
@@ -219,7 +220,6 @@
     "docs/articles/dreamsaicanbuy/chrome-browsing-agent.md",
     "USER.md",
     "memory",
-    "TOOLS.md",
     "docs/articles/exponentialpartners/chrome-browsing-agent.md",
     "docs/articles/dreamsaicanbuy",
     "docs/My writing.md",
