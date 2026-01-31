@@ -17,6 +17,8 @@ Things like:
 - **Apify**: Key stored in `.env.apify`. Used for Newsjacking story research.
 - **AgentMail**: Key stored in `.env.agentmail`
   - Inboxes: `riz@agentmail.to`, `neoandersen@agentmail.to`
+- **Moltbook**: Key stored in `.config/moltbook/credentials.json`.
+  - Name: NeoWolf
 
 ### GitHub & Vercel
 - **Private Matrix Repo:** https://github.com/rpabani/private-matrix.git
