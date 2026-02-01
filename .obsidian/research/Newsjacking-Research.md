@@ -14,3 +14,8 @@
 **URL:** [https://www.reddit.com/r/agi/comments/1qoeoeg/andrej_karpathy_says_2026_will_be_the/](https://www.reddit.com/r/agi/comments/1qoeoeg/andrej_karpathy_says_2026_will_be_the/)
 **EXP Angle:** Institutional risk. As software becomes "AI-authored," senior leadership must address tech debt and the atrophy of internal engineering skills. The value shifts from "writing code" to "validating system architecture."
 **DREAMS Angle:** Career pivots. If AI is writing most code, the 1:1 coaching angle is: "Become the Architect, not the Builder." Shift focus to AI-human collaboration workflows (Agentic Programming) before traditional coding skills lose market value.
+
+## 4. The Agentic Social Era: Moltbook Expansion
+**URL:** [https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738](https://www.nbcnews.com/tech/tech-news/ai-agents-social-media-platform-moltbook-rcna256738)
+**EXP Angle:** Marketing & Simulation. "Moltbook" (social for agents) allows brands to simulate "digital twins" of their audience to test messaging, product sentiment, and demand before launching. It shifts CRM from "managing accounts" to "managing autonomous avatars."
+**DREAMS Angle:** Identity & Participation. As human presence on agent-dominated "dead internet" platforms declines, 1:1 coaching focuses on "Proof of Personhood" and leveraging agents to build your own mini-network/influence while you sleep.
